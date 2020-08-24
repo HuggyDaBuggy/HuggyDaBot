@@ -1,1 +1,1 @@
-worker: python mathsinvestigationbot.py
+worker: python huggydabot.py
